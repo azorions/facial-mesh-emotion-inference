@@ -1,0 +1,7 @@
+# Core stack — Python 3.10–3.12 recommended (MediaPipe wheel availability).
+opencv-python>=4.8,<5
+mediapipe>=0.10.9
+deepface>=0.0.93
+tf-keras>=2.16          # Required by DeepFace when TensorFlow >= 2.16 is installed
+numpy>=1.24,<2.0        # MediaPipe/TensorFlow compatibility ceiling
+pytest>=7.4.0           # Test suite (tests/)
