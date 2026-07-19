@@ -1,3 +1,5 @@
+## facial-mesh-emotion-inference
+
 **facial-mesh-emotion-inference** is a production-grade computer vision application designed to map 3D facial structural geometry and accurately infer human emotional states in real-time. By combining the ultra-low-latency landmark tracking of **MediaPipe Face Mesh** with the robust deep learning architecture of **DeepFace (VGG-Face backend)**, the application seamlessly translates facial morphology into emotional metrics.
 
 ### The Architectural Problem We Solved
